@@ -1,6 +1,11 @@
-# <p style="text-align:center;">Charles Wang</p>
-## <p style="text-align:center;">czwang@ucsd.edu</p>
+#   Charles Wang
+## czwang@ucsd.edu
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
+## Section B13: Duncan Watson-Parris
+
+1. **What is the most interesting topic covered in your domain this quarter?** \
+The most intersting thing covered this Quarter for my domain is how the models form to make up a full Earth simulation. The CMIP6 serves as an intricate pattern, 
+stitching together several different models prediciting everything from temperature to surface humidity. This has further implications for further predictions as 
+it allows us a fine grain access into each feature being predicited for any of our areas of interest. 
 
 
